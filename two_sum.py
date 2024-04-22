@@ -20,5 +20,5 @@ class Solution:
 
 
 
-# O(n) time 
-# O(n) space
+# O(n) time (n = len(nums))
+# O(n) space (n = len(nums))
