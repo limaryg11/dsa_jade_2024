@@ -20,3 +20,6 @@ class Solution:
           
         #if we exit while loop and it doesn't return False, then it is palindrome
         return True
+
+#O(n) time (n = number of digits in x)
+#O(n) space for converting x to str (n = number of digits in x)
